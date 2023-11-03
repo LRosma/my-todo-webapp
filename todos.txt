@@ -1,0 +1,6 @@
+Sleep
+Walk
+Run
+Study
+Code
+Get it running
